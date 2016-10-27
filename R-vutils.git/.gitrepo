@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://bitbucket.org/rvuduc/R-vutils.git
+	branch = master
+	commit = e8fd1912db2ae625489f12c9ef0b9f156ac3676b
+	parent = be320a249911cd7967511b92eb2934be35f37ff9
+	cmdver = 0.1.0
